@@ -1,0 +1,50 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background: linear-gradient(#eb05d7 0%, #00fff2 100%);
+    font-size: 20px;
+    }
+
+    h1{
+        color: white;  
+        font-family: 'Cinzel Decorative', cursive;
+    }
+
+    h4{
+        font-family: cursive;
+    }
+
+    h3{
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    label{
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    p{
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+   
